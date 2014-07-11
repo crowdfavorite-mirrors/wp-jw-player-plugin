@@ -5,7 +5,7 @@ Contributors: LongTail Video Inc.
 Tags: JW Player, Video, Flash, LongTail Video, Playlists, Audio, HTML5, iPad, iPhone, iPod, Mobile
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 2.1.2
+Stable tag: 2.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ The JW Player WordPress Plugin enables you to embed Flash and HTML5 audio and vi
 
 == Description ==
 
-The JW Player WordPress Plugin makes it extremely easy to deliver Flash and HTML5 video through your WordPress website. This plugin allows for easy customization and embedding of Flash and HTML5 video using the JW Player in your WordPress posts. It provides support for all of the JW Player 6 configuration options, including custom watermarks, HLS/RTMP streaming and VAST/VPAID advertising.
+The JW Player WordPress Plugin makes it extremely easy to deliver Flash and HTML5 video through your WordPress website. This WordPress video player plugin allows for easy customization and embedding of Flash and HTML5 video using the JW Player in your WordPress posts. It provides support for all of the JW Player 6 configuration options, including custom watermarks, HLS/RTMP streaming and VAST/VPAID advertising.
 
 <strong>Key Features</strong>
 
@@ -98,6 +98,14 @@ Additionally, all the embedding, skinning and scripting functionalities of JW Pl
 3. Control almost every aspect of your player right within Wordpress.
 
 == Changelog ==
+
+= 2.1.4 =
+
+* BUG: Fixed possible CSRF security issue in admin.
+
+= 2.1.3 =
+
+* BUG: Fixed bug to allow users of the Pro player to enable sharing.
 
 = 2.1.2 =
 
